@@ -12,8 +12,6 @@ How to install
 ===
 
 ### Eclipse Plugin ###
-  
-### Stand Alone (Android SDK needed)###
 * Download "bin/Draw9PatchPlugin.zip" and decompress it.
 * Copy "plugins/Draw9PatchEditor_*.jar" to "<YOUR_ECLIPSE>/plugins" directory.  
 
